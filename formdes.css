@@ -1,0 +1,176 @@
+
+
+#colur{
+    background-color: blueviolet;
+
+   
+}
+
+.alignNav{
+    margin-left: 30px;
+    margin-right: 40px;
+    color:black;
+    font-size: larger;
+}
+.card{
+    transition: all 0.3s;
+}
+
+.card:hover{
+    transform:scale(1.15)
+}
+.nav-link{
+    transition: all 0.2s;
+}
+.nav-link:hover{
+    border-bottom: 2px solid white;
+
+}
+.col a{
+    float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  color: black;
+  
+}
+.arrange a:hover{
+    font-size: larger;
+    text-decoration: solid;
+    
+    background-color: cornflowerblue;
+    
+}
+.a img{
+    transition: all 0.3s;
+}
+.p img:hover{
+    opacity: 0.5;
+    transform: scale(1.15);
+
+
+}
+
+.margin{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+hr.rounded {
+    border-top: 8px solid palevioletred;
+    border-radius: 5px;
+  }
+  .flook{
+    text-decoration: none;
+    font-weight: 200;
+    color:white
+  }
+  .wrapper{
+    display: inline-flex;
+  }
+  .wrapper a{
+    margin: 0 3px;
+  }
+  .wrapper a img{
+    height:30px;
+    width:30px;
+    display:block;
+    background: #fff;
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+
+  }
+  .p h3{
+    
+    text-decoration: none;
+
+    color:black;
+  }
+  .row1 img{
+    border-radius: 50%;
+  }
+  .AgeDurationInside table,th,td{
+    border:dotted;
+  border-collapse: collapse;
+  background: oldlace;
+  }
+ .label label{
+  font-weight: 500;
+
+  }
+  .CheckListUl img{
+    height: 30px;
+    width: 30px;
+
+   
+  
+  }
+  .CheckListUl li{
+    list-style: none;
+  }
+  .testmo h1 {
+    font-family: "ProximaNovaBold";
+    font-size: 60px;
+    
+    margin-bottom: 0;
+    margin-top: 30px;
+}
+.nav2 li a{
+  margin-left: 150px;
+  margin-right: 150px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: black;
+  border-radius: 5px;
+
+}
+.new1 a:hover{
+  border-width:5px;
+  border-style:solid;
+  border-color:brown;
+  background-color:red;
+  color:black;
+  font-weight: bold;
+  border-radius: 5px ;
+  
+}
+.new2 a:hover{
+  border-width:5px;
+  border-style:solid;
+  border-color:greenyellow;
+  background-color:yellow;
+  color:black;
+  font-weight: bold;
+  border-radius: 5px;
+  
+}
+.new3 a:hover{
+  border-width:5px;
+  border-style:solid;
+  border-color:cornflowerblue;
+  background-color:coral;
+  color:black;
+  font-weight: bold;
+  border-radius: 2px;
+  
+}
+ .modal-dialog{
+  position: relative;
+
+  left: 380px;
+ }
+ .spinner-wapper{
+  background-color:white;
+  position: fixed;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.2s;
+
+ }
